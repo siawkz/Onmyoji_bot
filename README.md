@@ -14,3 +14,7 @@ Consists of two python scripts:
     ```python
     auto_join_stage(continue_half=False) #continue_half: continue half way stage clear 
     ```
+
+## Remark
+1. When the monster is moving, the mouse click might not be accurate. You might need to let the script to try for several times.
+2. The script could be interrupted when others inviting the player for other activities.
